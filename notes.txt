@@ -1,2 +1,0 @@
-The HCurlDiv.ipynb has a good explanation of how to visualize basis functions and DOFs.
-
