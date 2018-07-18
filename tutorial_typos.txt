@@ -1,0 +1,3 @@
+- in Blockjacobi block 10, width returns the height of the smoother
+- in Nonlinear solver, the documentation changed to a cubic, but the code was still quadratic.
+
